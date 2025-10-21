@@ -49,8 +49,8 @@ PageTransition();
 // Download CV
 document.getElementById("downloadBtn").addEventListener("click", function () {
   const a = document.createElement("a");
-  a.href = "./img/TONMOY'S-CV.pdf";
-  a.download = "TONMOY'S-CV.pdf";
+  a.href = "./img/TONMOY_CV.pdf";
+  a.download = "TONMOY_CV.pdf";
   document.body.appendChild(a);
   a.click();
   a.remove();

@@ -1,4 +1,4 @@
 Portfolio
 
-<div align="center">
-<a href=""><strong>➥ Live Demo</strong></a>
+<div align='left'>
+<a href=""><strong>➥ Demo</strong></a>
